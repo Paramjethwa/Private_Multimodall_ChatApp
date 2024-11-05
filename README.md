@@ -1,4 +1,4 @@
-Local Multimodal AI Chat Getting Started To get started with Local Multimodal AI Chat, clone the repository and follow these simple steps:
+**Local Multimodal AI Chat Getting Started To get started with Local Multimodal AI Chat, clone the repository and follow these simple steps:**
 
 Easiest and Preferred Method: Docker Compose Set model save path: Line 21 in the docker-compose.yml file
 
@@ -38,8 +38,12 @@ Audio Chatting with Whisper AI: Leveraging Whisper AI's robust transcription cap
 
 PDF Chatting with Chroma DB: The app is tailored for both professional and academic uses, integrating Chroma DB as a vector database for efficient PDF interactions. This feature allows users to engage with their own PDF files locally on their device. This makes it a valuable tool for personal use, where one can extract insights, summaries, and engage in a unique form of dialogue with the text in their PDF files. Chroma website
 
-Updates
+**Updates**
 
-SQLite Database for Chat History: Implemented a SQLite database to store the chat history. Displaying Images and Audio Files in Chat: Chat history now supports displaying images and audio files. Added Button to delete Chat History Updated langchain: Runs now with the current langchain version 0.1.6 Possible Improvements Add Image Generator Model. Authentication Mechanism. Change Theme. Contact Information For any questions, please contact me at:
+SQLite Database for Chat History: Implemented a SQLite database to store the chat history. Displaying Images and Audio Files in Chat: Chat history now supports displaying images and audio files. Added Button to delete Chat History Updated langchain: Runs now with the current langchain version 0.1.6
+
+Possible Improvements Add Image Generator Model. Authentication Mechanism. Change Theme.
+
+Contact Information For any questions, please contact me at:
 
 Linkedin - https://www.linkedin.com/in/param-jethwa-44977425a/
